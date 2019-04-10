@@ -25,7 +25,7 @@ function funkyFunction() {
     return funk
   }
 
-return innerr()
+return innerr
 }
 //funkyFunction()
 // We want to set theFunk equal to "FUNKY!" using our funkyFunction.
