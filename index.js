@@ -34,7 +34,7 @@ return innerr
   //return function(){
     //return "FUNKY!"
   //}
-var theFunk = funkyFunction()
+var theFunk = innerr()
   theFunk()
 
 
