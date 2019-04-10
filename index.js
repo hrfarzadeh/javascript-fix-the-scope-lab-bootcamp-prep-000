@@ -27,14 +27,14 @@ function funkyFunction() {
 
 return innerr
 }
-//funkyFunction()
+var me = funkyFunction()
 // We want to set theFunk equal to "FUNKY!" using our funkyFunction.
 // NOTE: you only need to modify the code below this line.
 //function funkyFunction(){
   //return function(){
     //return "FUNKY!"
   //}
-var theFunk = funkyFunction()
+var theFunk = me()
  // theFunk()
 
 
